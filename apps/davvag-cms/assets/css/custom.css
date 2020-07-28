@@ -1,7 +1,7 @@
 :root {
-  --backcolor: #b51f1f;
+  --backcolor: #32a852;
   --backtextcolor:#ffffff;
-  --backtexthovercolor:#5040af;
+  --backtexthovercolor:#84c09f;
   --blue: #4679bd;
   --grey: #ddd;
   --textColor:#ddd;
@@ -10,7 +10,7 @@
   --FooterColor:var(--backcolor);
   --FooterTextxColor:var(--backtextcolor);
   --FooterLinkColor:#ffffff;
-  --FooterLinkhoverColor:rgb(55, 4, 104);
+  --FooterLinkhoverColor:#d3f2db;
   --W200: 200px;
   --Lft: left;
 }
