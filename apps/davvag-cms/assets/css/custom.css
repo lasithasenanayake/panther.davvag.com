@@ -1,18 +1,18 @@
 :root {
-  --backcolor: #ebcf34;
-  --backtextcolor:#0a0a0a;
-  --backtexthovercolor:#062e52;
-  --blue: #4679bd;
-  --grey: #ddd;
-  --textColor:#ddd;
-  --ToolBar:#ffffff;
-  --SocialButton:#ffffff;
-  --FooterColor:var(--backcolor);
-  --FooterTextxColor:var(--backtextcolor);
-  --FooterLinkColor:#65664a;
-  --FooterLinkhoverColor:#303024;
-  --W200: 200px;
-  --Lft: left;
+    --backcolor: #30af34;
+    --backtextcolor: #0a0a0a;
+    --backtexthovercolor: #062e52;
+    --blue: #4679bd;
+    --grey: #ddd;
+    --textColor: #ddd;
+    --ToolBar: #ffffff;
+    --SocialButton: #ffffff;
+    --FooterColor: var(--backcolor);
+    --FooterTextxColor: var(--backtextcolor);
+    --FooterLinkColor: #65664a;
+    --FooterLinkhoverColor: #303024;
+    --W200: 200px;
+    --Lft: left;
 }
 
 a {
