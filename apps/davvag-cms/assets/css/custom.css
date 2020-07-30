@@ -1,16 +1,16 @@
 :root {
-  --backcolor: #b51f1f;
-  --backtextcolor:#ffffff;
-  --backtexthovercolor:#5040af;
+  --backcolor: #ebcf34;
+  --backtextcolor:#0a0a0a;
+  --backtexthovercolor:#062e52;
   --blue: #4679bd;
   --grey: #ddd;
   --textColor:#ddd;
   --ToolBar:#ffffff;
-  --SocialButton:rgb(5, 2, 150);
+  --SocialButton:#ffffff;
   --FooterColor:var(--backcolor);
   --FooterTextxColor:var(--backtextcolor);
-  --FooterLinkColor:#ffffff;
-  --FooterLinkhoverColor:rgb(55, 4, 104);
+  --FooterLinkColor:#65664a;
+  --FooterLinkhoverColor:#303024;
   --W200: 200px;
   --Lft: left;
 }
