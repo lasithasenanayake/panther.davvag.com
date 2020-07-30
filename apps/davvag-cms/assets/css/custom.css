@@ -1,6 +1,6 @@
 :root {
     --backcolor: #30af34;
-    --backtextcolor: #0a0a0a;
+    --backtextcolor: #ffffff;
     --backtexthovercolor: #062e52;
     --blue: #4679bd;
     --grey: #ddd;
@@ -9,8 +9,8 @@
     --SocialButton: #ffffff;
     --FooterColor: var(--backcolor);
     --FooterTextxColor: var(--backtextcolor);
-    --FooterLinkColor: #65664a;
-    --FooterLinkhoverColor: #303024;
+    --FooterLinkColor: #b8eeb4;
+    --FooterLinkhoverColor: #e2e2d6;
     --W200: 200px;
     --Lft: left;
 }
